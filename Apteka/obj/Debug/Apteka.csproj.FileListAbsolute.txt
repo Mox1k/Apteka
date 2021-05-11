@@ -1,0 +1,14 @@
+C:\Users\Mox1\source\repos\Apteka\Apteka\bin\Debug\Apteka.exe.config
+C:\Users\Mox1\source\repos\Apteka\Apteka\bin\Debug\Apteka.exe
+C:\Users\Mox1\source\repos\Apteka\Apteka\bin\Debug\Apteka.pdb
+C:\Users\Mox1\source\repos\Apteka\Apteka\obj\Debug\Apteka.csprojAssemblyReference.cache
+C:\Users\Mox1\source\repos\Apteka\Apteka\obj\Debug\Apteka.csproj.CoreCompileInputs.cache
+C:\Users\Mox1\source\repos\Apteka\Apteka\obj\Debug\Apteka.exe
+C:\Users\Mox1\source\repos\Apteka\Apteka\obj\Debug\Apteka.pdb
+C:\C#\Apteka\Apteka\bin\Debug\Apteka.exe.config
+C:\C#\Apteka\Apteka\bin\Debug\Apteka.exe
+C:\C#\Apteka\Apteka\bin\Debug\Apteka.pdb
+C:\C#\Apteka\Apteka\obj\Debug\Apteka.csprojAssemblyReference.cache
+C:\C#\Apteka\Apteka\obj\Debug\Apteka.csproj.CoreCompileInputs.cache
+C:\C#\Apteka\Apteka\obj\Debug\Apteka.exe
+C:\C#\Apteka\Apteka\obj\Debug\Apteka.pdb
